@@ -1,0 +1,8 @@
+# Generated proprietary-files.txt for j1xlte
+
+# Camera
+lib/hw/camera.exynos3.so:vendor/lib/hw/camera.vendor.exynos5.so
+
+# Sensors
+lib/hw/sensors.universal3475.so:vendor/lib/hw/sensors.universal3475.so
+

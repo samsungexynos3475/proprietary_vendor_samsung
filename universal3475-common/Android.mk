@@ -21,7 +21,7 @@ ifneq ($(filter j1xlte j2lte on5ltetmo,$(TARGET_DEVICE)),)
 include $(CLEAR_VARS)
 LOCAL_MODULE := libGLES_mali
 LOCAL_MODULE_OWNER := samsung
-LOCAL_SRC_FILES := proprietary/vendor/lib/egl/libGLES_mali.so
+LOCAL_SRC_FILES := proprietary/lib/egl/libGLES_mali.so
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := SHARED_LIBRARIES
 LOCAL_MODULE_SUFFIX := .so

@@ -1,0 +1,12 @@
+# Generated proprietary-files.txt for on5ltetmo
+
+# Camera
+lib/hw/camera.exynos3.so:lib/hw/camera.vendor.exynos5.so
+
+# Firmware
+etc/firmware/audience-es804-data.bin
+etc/firmware/audience-es804-fw.bin
+
+# Sensors
+lib/hw/sensors.universal3475.so
+
