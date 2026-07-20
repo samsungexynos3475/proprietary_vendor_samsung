@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2lte/proprietary/lib/hw/camera.exynos3.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.vendor.exynos5.so \
     vendor/samsung/j2lte/proprietary/lib/hw/sensors.universal3475.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.universal3475.so \
     vendor/samsung/j2lte/proprietary/lib/libexynoscameraexternal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscameraexternal.so \
-    vendor/samsung/j2lte/proprietary/vendor/bin/cbd:$(TARGET_COPY_OUT_VENDOR)/bin/cbd \
     vendor/samsung/j2lte/proprietary/vendor/firmware/fimc_is_fd.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fd.bin \
     vendor/samsung/j2lte/proprietary/vendor/firmware/fimc_is_lib_isp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_lib_isp.bin \
     vendor/samsung/j2lte/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin
