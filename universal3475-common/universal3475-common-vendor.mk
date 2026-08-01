@@ -20,8 +20,8 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_COPY_FILES += \
     vendor/samsung/universal3475-common/proprietary/bin/gps.cer:$(TARGET_COPY_OUT_VENDOR)/bin/gps.cer \
     vendor/samsung/universal3475-common/proprietary/bin/gpsd:$(TARGET_COPY_OUT_VENDOR)/bin/gpsd \
-    vendor/samsung/universal3475-common/proprietary/etc/plmn_delta.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/plmn_delta.bin \
-    vendor/samsung/universal3475-common/proprietary/etc/plmn_se13.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/plmn_se13.bin \
+    vendor/samsung/universal3475-common/proprietary/etc/plmn_delta.bin:$(TARGET_COPY_OUT_VENDOR)/etc/plmn_delta.bin \
+    vendor/samsung/universal3475-common/proprietary/etc/plmn_se13.bin:$(TARGET_COPY_OUT_VENDOR)/etc/plmn_se13.bin \
     vendor/samsung/universal3475-common/proprietary/lib/hw/gps.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gps.universal3475.so \
     vendor/samsung/universal3475-common/proprietary/lib/libcutils_symbol.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcutils_symbol.so \
     vendor/samsung/universal3475-common/proprietary/lib/libexynoscameraexternal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscameraexternal.so \
