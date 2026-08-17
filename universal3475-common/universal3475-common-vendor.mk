@@ -33,7 +33,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal3475-common/proprietary/lib/libsec-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsec-ril.so \
     vendor/samsung/universal3475-common/proprietary/lib/libstagefright_hdcp.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libstagefright_hdcp.so \
     vendor/samsung/universal3475-common/proprietary/lib/libstlport.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstlport.so \
-    vendor/samsung/universal3475-common/proprietary/lib/libwrappergps.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwrappergps.so \
     vendor/samsung/universal3475-common/proprietary/lib/libMcClient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMcClient.so \
     vendor/samsung/universal3475-common/proprietary/lib/libMcRegistry.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMcRegistry.so \
     vendor/samsung/universal3475-common/proprietary/product/lib/libaptX_encoder.so:$(TARGET_COPY_OUT_PRODUCT)/lib/libaptX_encoder.so \
